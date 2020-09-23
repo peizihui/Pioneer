@@ -130,7 +130,7 @@ uint exp = 250 ** x; // exp: 62500
 
 * * *
 
- 压轴部分要表达的是:正如你所看到的，让Solidity变得更加明确的趋势依然存在，而且很好。这对智能合约安全来说是完全有利的——而要成为一名熟练的`Soldity`开发者，及时了解最新的可靠性变化是重要的一部分。
+ 压轴部分要表达的是:让Solidity变得更加明确的趋势依然存在，而且很好。这对智能合约安全来说是完全有利的——而要成为一名熟练的`Soldity`开发者，及时了解最新的可靠性变化是重要的一部分。
 如果你需要一些建议更新代码,不要忽视的技巧文档2,一定要检查出[solidity-upgrade tool 5](https://solidity.readthedocs.io/en/latest/using-the-compiler.html#solidity-upgrade).
 如果有任何不清楚的地方，或者你想讨论任何变化，欢迎继续下面的对话!
 
